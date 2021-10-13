@@ -13,3 +13,7 @@ Event management is the application to manage and development of festivals, even
 The project provides most of the basic functionality required for an event. It allows the user to select from list of event types.
 In this project basically, we have an administration corner, who takes care about conducting events and details of number of participants and keeps tracking the event feedback and if user had interest to conduct the event then user will send the request to the admin. If admin is willing to conduct then he/she send an acknowledgment to the user.
 In user’s corner firstly, user needs to be register in the website and login with credentials. After successful login if user wants to book an event then he will go register event and user can view the booking history and if user has any query he/she can contact with the volunteers of that particular event.
+
+
+### Database:
+MySQL connected to front end using PHP.
